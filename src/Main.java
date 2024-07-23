@@ -6,6 +6,6 @@ public class Main {
         Bird parrot = new flightBird();
         parrot.activity(); // chạy chương trình ra "the bird is flying"
         parrot.sleep();
-        System.out.println("hello");// chạy chương trình ra "the bird is sleeping"
+        System.out.println("hi");// chạy chương trình ra "the bird is sleeping"
     }
 }
